@@ -11,6 +11,9 @@
     <modules>
         <module>client</module>
         <module>server</module>
+        <module>bin-api</module>
+        <module>bin-server</module>
+        <module>bin-client</module>
     </modules>
 
     <properties>
